@@ -27,4 +27,5 @@ If you would like to contribute to the project, please follow these steps:
 3. Make your changes and test thoroughly.
 4. Commit your changes and push them to your fork.
 5. Open a pull request to the original repository.
-## Credits  The Technology Blog project was created by [Ananya Mishra](https://github.com/ananyamissra). 
+
+#### Credits  The Technology Blog project was created by [Ananya Mishra](https://github.com/ananyamissra). 
